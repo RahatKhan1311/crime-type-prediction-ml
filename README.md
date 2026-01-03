@@ -1,8 +1,9 @@
 # Crime Type Prediction using Machine Learning
 
 ## Overview
-This project uses Machine Learning to predict the type of crime based on
-location, evidence type, case status, and date-based features.
+This project demonstrates the use of Machine Learning to predict the type of crime based on structured case-related data. The model uses features such as location, evidence type, case status, and date-based attributes to analyze patterns and perform classification.
+
+The primary objective of this project is to understand and implement an end-to-end data science workflow, from data preparation to model evaluation and interpretation.
 
 The goal is to demonstrate an end-to-end Data Science workflow:
 - Data cleaning
